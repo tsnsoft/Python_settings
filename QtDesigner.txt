@@ -1,0 +1,4 @@
+QtDesigner
+C:\Program Files\Python38\Scripts\pyqt5designer.exe
+"$FilePath$"
+$FileDir$
