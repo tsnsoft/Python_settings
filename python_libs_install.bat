@@ -1,0 +1,2 @@
+pip3 install PyQt5 PyQt5-tools pyperclip requests html2text beautifulsoup4 wget python-docx XlsxWriter openpyxl Pillow selenium wheel pyinstaller pypiwin32 pywin32-ctypes ebooklib matplotlib xlrd pandas numpy xlrd mysql-connector-python PyQt5-stubs
+pause
